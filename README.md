@@ -77,3 +77,11 @@ and add preline from preline.co
 this is a boilerplate using Astro as a framework, tailwindcss as a custom style and preline
 as UI component
 
+
+
+To use this website simply
+go to the directory from terminal/cmd
+type npm install
+it install all dependencies
+then npm run dev
+
