@@ -66,3 +66,14 @@ Check out [our documentation](https://docs.astro.build) or jump into our [Discor
 ## Credit
 
 This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+
+
+
+followed this tuturial
+https://langvad.dev/blog/build-a-personal-website-with-astro-and-tailwind/
+
+and add preline from preline.co
+
+this is a boilerplate using Astro as a framework, tailwindcss as a custom style and preline
+as UI component
+
